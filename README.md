@@ -1,2 +1,2 @@
 # yuniko14.github.io
-my page
+This is my page.
